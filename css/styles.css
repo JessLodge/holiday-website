@@ -3,6 +3,7 @@ h1 {
   text-align: center;
   font-size: 80px;
   font-family: 'Playfair Display SC', serif;
+  letter-spacing: 0.2em;
 }
 
 h2 {
@@ -15,6 +16,7 @@ h3 {
   font-family: 'Playfair Display SC', serif;
   color: #6A5ACD;
   font-size: 40px;
+  letter-spacing: 0.1em
 }
 
 

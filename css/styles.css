@@ -1,33 +1,35 @@
 h1 {
   color: #483D8B;
   text-align: center;
-  font-family: impact;
   font-size: 80px;
+  font-family: 'Playfair Display SC', serif;
 }
 
 h2 {
-  font-style: italic;
+  font-family: 'Playfair Display SC', serif;
   color: #9932CC;
   text-align:center;
 }
 
 h3 {
-  font-family: impact;
+  font-family: 'Playfair Display SC', serif;
   color: #6A5ACD;
   font-size: 40px;
 }
 
 
 p {
-  font-family: sans-serif;
+  font-family: 'Playfair Display', serif;
   color: #4B0082;
+  font-size:22px;
 }
 
 ul {
-  font-size: 20px;
+  font-size: 18px;
   line-height: 30px;
   color: #CD5C5C;
   list-style: none;
+  font-family: 'Playfair Display', serif;
 }
 
 body {
